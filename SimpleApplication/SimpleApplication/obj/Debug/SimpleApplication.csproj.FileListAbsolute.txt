@@ -1,0 +1,13 @@
+C:\Data\RNL\WPF Apps\SimpleApplication\SimpleApplication\bin\Debug\SimpleApplication.exe.config
+C:\Data\RNL\WPF Apps\SimpleApplication\SimpleApplication\bin\Debug\SimpleApplication.exe
+C:\Data\RNL\WPF Apps\SimpleApplication\SimpleApplication\bin\Debug\SimpleApplication.pdb
+C:\Data\RNL\WPF Apps\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.csprojResolveAssemblyReference.cache
+C:\Data\RNL\WPF Apps\SimpleApplication\SimpleApplication\obj\Debug\MainWindow.baml
+C:\Data\RNL\WPF Apps\SimpleApplication\SimpleApplication\obj\Debug\MainWindow.g.cs
+C:\Data\RNL\WPF Apps\SimpleApplication\SimpleApplication\obj\Debug\App.g.cs
+C:\Data\RNL\WPF Apps\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication_MarkupCompile.cache
+C:\Data\RNL\WPF Apps\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.g.resources
+C:\Data\RNL\WPF Apps\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.Properties.Resources.resources
+C:\Data\RNL\WPF Apps\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.csproj.GenerateResource.Cache
+C:\Data\RNL\WPF Apps\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.exe
+C:\Data\RNL\WPF Apps\SimpleApplication\SimpleApplication\obj\Debug\SimpleApplication.pdb

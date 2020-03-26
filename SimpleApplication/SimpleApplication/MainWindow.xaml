@@ -1,0 +1,24 @@
+﻿<Window x:Class="SimpleApplication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="This is a test" Height="350" Width="525"
+        >
+    <Grid>
+        <!--<Button Command="{Binding LoginCommand}" OverridesDefaultStyle="True" SnapsToDevicePixels="True" Grid.Column="1" Width="20" Height="20" Margin="134,4,62,6" Grid.Row="1" Cursor="Hand">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <Grid HorizontalAlignment="{TemplateBinding HorizontalAlignment}" VerticalAlignment="{TemplateBinding VerticalAlignment}">
+                                    <Image Source="/resources/icons/login_arrow.png" Width="20" Height="20" Stretch="UniformToFill" RenderOptions.BitmapScalingMode="HighQuality" />
+                                </Grid>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+
+        </Button>-->
+    </Grid>
+</Window>
